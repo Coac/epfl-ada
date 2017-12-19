@@ -13,6 +13,7 @@ Our aim for the project is to investigate the factor affecting the product revie
 
 The procedure:
 
+
 **Data Set Exploration**:
 - We start with introducing and describing the dataset
 - We establish the power law nature od the distribution of reviews and other statistics.
